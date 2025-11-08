@@ -25,18 +25,29 @@ Design principles and design thinking
 
 **Projects**
 
-●Simulation of simple routing algorithms on WLCG like model 
- Designed a WLCG-like hierarchical distributed network model using p5.js and  
- developed a program to run a simulation of 2 simple routing algorithms on it. 
-●PSA Bangalore - Transit alert app 
-      Developed a simple app that people can use to post about hiccups in transit       
-      through   the city of Bangalore in real time.[vibe coded in Typescript] 
-●Phishing URL detector 
-           Developed a tool to identify and flag potentially malicious URLs.[group project] 
-●The Vibe compass 
+ ● Simulation of simple routing algorithms on WLCG like model 
+ 
+   Designed a WLCG-like hierarchical distributed network model using p5.js and  
+   developed a program to run a simulation of 2 simple routing algorithms on it. 
+ 
+
+ ● PSA Bangalore - Transit alert app 
+ 
+   Developed a simple app that people can use to post about hiccups in transit       
+   through   the city of Bangalore in real time.[vibe coded in Typescript] 
+      
+      
+ ● Phishing URL detector 
+ 
+   Developed a tool to identify and flag potentially malicious URLs.[group project] 
+      
+      
+ ● The Vibe compass 
     - Newform Honourable Mention
-Designed an interactive travel website for the Figma makeathon. Also submitted to 
-the Newform Web Design challenge and won honourable mention
+    
+   Designed an interactive travel website for the Figma makeathon. Also submitted to 
+   the Newform Web Design challenge and won honourable mention
+   
 
 **Familiarity**
 
