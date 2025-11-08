@@ -1,6 +1,9 @@
-SHREYA RAVINDRA 
+<font color ="blue">SHREYA RAVINDRA </font>
 
-mail@withshreya.tech | Linkedin | Portfolio 
+mail@withshreya.tech 
+
+Linkedin: 
+Portfolio: www.withshreya.tech
 
 
 About Me 
