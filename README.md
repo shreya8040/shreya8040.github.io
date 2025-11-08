@@ -1,16 +1,14 @@
 
 
-mail@withshreya.tech 
-
-Linkedin: https://www.linkedin.com/in/shreya-r-0399ab2a1/
-Portfolio: www.withshreya.tech
+mail@withshreya.tech | [LinkedIn](https://www.linkedin.com/in/shreya-r-0399ab2a1/) | [Portfolio](www.withshreya.tech)
 
 
-About Me 
+
+**About Me** 
 
 A passionate and versatile Computer Science student with a strong foundation in both technical and creative fields. My twin passions for art and technology drive my work in software development, UI/UX, graphic design and many other fields that lie at the intersection of these fields. I am fascinated by the rapid developments in science and tech and like to keep up with them - from new consumer tech devices and software to latest breakthroughs like AI. I am skilled in various programming and scripting languages and I am continuously learning and coding in different domains, eager to contribute my creativity and problem-solving skills to the tech world. 
 
-Skills 
+**Skills** 
 
 ● Technical Languages:
  C/C++
@@ -25,7 +23,7 @@ Design principles and design thinking
 ● Troubleshooting 
 
 
-Projects 
+**Projects**
 
 ●Simulation of simple routing algorithms on WLCG like model 
  Designed a WLCG-like hierarchical distributed network model using p5.js and  
@@ -40,7 +38,7 @@ Projects
 Designed an interactive travel website for the Figma makeathon. Also submitted to 
 the Newform Web Design challenge and won honourable mention
 
-Familiarity
+**Familiarity**
 
 ●	AR/VR - Unity and C#
 ●	Cybersecurity - Kali
@@ -49,7 +47,7 @@ Familiarity
 ●	Typescript
 ●	User testing
 
-Languages 
+**Languages** 
 
 ● English (Native/Bilingual) 
 ● Kannada (Native/Bilingual) 
