@@ -22,11 +22,21 @@ Dayananda Sagar College of Engineering
  Python 
  Java
  JavaScript 
+ 
 ● Frameworks: React.js, Electron.js, p5.js 
-● Creative: UI/UX (Figma, Wix Studio), Illustration (Krita, Infinite Painter), Graphic Design (Canva, Adobe Express) ,
+
+● Creative: UI/UX (Figma, Wix Studio)
+
+Illustration (Krita, Infinite Painter)
+
+Graphic Design (Canva, Adobe Express)
+
 Design principles and design thinking
-● Other Software: Microsoft Office Suite (Word, Excel, PowerPoint), 
+
+● Other Software: Microsoft Office Suite (Word, Excel, PowerPoint)
+
 ● Vibe coding 
+
 ● Troubleshooting 
 
 
@@ -59,10 +69,15 @@ Design principles and design thinking
 **Familiarity**
 
 ●	AR/VR - Unity and C#
+
 ●	Cybersecurity - Kali
+
 ●	Database management – MySQL
+
 ●	Version control – Git and GitHub
+
 ●	Typescript
+
 ●	User testing
 
 **Languages** 
