@@ -18,20 +18,25 @@ Dayananda Sagar College of Engineering
 **Skills** 
 
 ● Technical Languages:
+
  C/C++
+ 
  Python 
+ 
  Java
+ 
  JavaScript 
  
 ● Frameworks: React.js, Electron.js, p5.js 
 
-● Creative: UI/UX (Figma, Wix Studio)
+● Creative: 
+   UI/UX (Figma, Wix Studio)
 
-Illustration (Krita, Infinite Painter)
+   Illustration (Krita, Infinite Painter)
 
-Graphic Design (Canva, Adobe Express)
+   Graphic Design (Canva, Adobe Express)
 
-Design principles and design thinking
+   Design principles and design thinking
 
 ● Other Software: Microsoft Office Suite (Word, Excel, PowerPoint)
 
