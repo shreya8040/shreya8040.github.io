@@ -18,7 +18,7 @@ Dayananda Sagar College of Engineering
 **Skills** 
 
 
-Technical
+_Technical_
 
 
 Languages: C/C++, JavaScript, Typescript, Python, Lua, Java
@@ -31,7 +31,7 @@ Tools: Git/GitHub
 
 
 
-Creative
+_Creative_
 
 
 General: User Interface design, User Experience research and design, Design thinking, Illustration
