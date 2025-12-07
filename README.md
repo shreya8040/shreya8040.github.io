@@ -17,60 +17,77 @@ Dayananda Sagar College of Engineering
 
 **Skills** 
 
-● Technical Languages: C/C++, Python, Java, JavaScript 
- 
-● Frameworks: React.js, Electron.js, p5.js 
 
-● Creative: UI/UX (Figma, Wix Studio), Illustration (Krita, Infinite Painter), Graphic Design (Canva, Adobe Express), Design principles and       design thinking
+Technical
 
-● Other Software: Microsoft Office Suite (Word, Excel, PowerPoint)
 
-● Vibe coding 
+Languages: C/C++, JavaScript, Typescript, Python, Lua, Java
 
-● Troubleshooting 
+Frameworks: React.js, Node.js, p5.js, Electron.js
 
+Database: MySQL
+
+Tools: Git/GitHub
+
+
+
+Creative
+
+
+General: User Interface design, User Experience research and design, Design thinking, Illustration
+
+Graphic Design
+
+Tools: Figma, Affinity, Krita
 
 **Projects**
 
- ● Simulation of simple routing algorithms on WLCG like model 
- 
-   Designed a WLCG-like hierarchical distributed network model using p5.js and  
-   developed a program to run a simulation of 2 simple routing algorithms on it. 
- 
 
- ● PSA Bangalore - Transit alert app 
+● PSA Bangalore - Transit alert app 
+
+Developed a simple app that people can use to post about hiccups in transit through the city
+of Bangalore in real time using v0 agent, Typescript and integration with Neon for the
+database to store the alert posts.
+Added features like adding images to post, upvote and downvote system to help users
+evaluate accuracy of alert, and nearby filter to help with location filtering.
+
+● Simulation of simple routing algorithms on WLCG like model
+
+Designed a WLCG-like hierarchical distributed network model using p5.js and developed a
+program to run a simulation of 2 simple routing algorithms on it – developed as part of
+coursework for the subject of Computer Networks
+
+
+● Phishing URL detector Preview 
+
+ Developed a tool to identify and flag potentially malicious URLs built using 87 lexical, content-
+ based, and external features. Includes full feature extraction, model training, evaluation, and a
+ Flask API for real-time URL classification.
+
  
-   Developed a simple app that people can use to post about hiccups in transit       
-   through   the city of Bangalore in real time.[vibe coded in Typescript] 
-      
-      
- ● Phishing URL detector 
- 
-   Developed a tool to identify and flag potentially malicious URLs.[group project] 
-      
-      
- ● The Vibe compass 
-    - Newform Honourable Mention
-    
-   Designed an interactive travel website for the Figma makeathon. Also submitted to 
-   the Newform Web Design challenge and won honourable mention
-   
+● The Vibe compass Preview
+
+Designed an interactive travel website for the Figma Makeathon using Figma Make [vibe coded
+in Typescript] focusing on smooth user experience and aesthetics, including a feature to suggest
+a vacation location based on the ‘vibe’ selected by the user. Also submitted to the Newform
+Web Design challenge and won honourable mention .
+
+
 
 **Familiarity**
 
-●	AR/VR - Unity and C#
 
-●	Cybersecurity - Kali
+● Unity and C# : Beginner
 
-●	Database management – MySQL
+● Kali Linux : Beginner
 
-●	Version control – Git and GitHub
+● User testing
 
-●	Typescript
+● Troubleshooting
 
-●	User testing
 
 **Languages** 
+
 
 ● English (Native/Bilingual) 
 ● Kannada (Native/Bilingual) 
