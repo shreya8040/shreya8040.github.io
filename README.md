@@ -44,7 +44,7 @@ Graphic Design
 ## **Projects**
 
 
-● PSA Bangalore - Transit alert app 
+**● PSA Bangalore - Transit alert app**
 
 Developed a simple app that people can use to post about hiccups in transit through the city
 of Bangalore in real time using v0 agent, Typescript and integration with Neon for the
@@ -52,21 +52,21 @@ database to store the alert posts.
 Added features like adding images to post, upvote and downvote system to help users
 evaluate accuracy of alert, and nearby filter to help with location filtering.
 
-● Simulation of simple routing algorithms on WLCG like model
+**● Simulation of simple routing algorithms on WLCG like model**
 
 Designed a WLCG-like hierarchical distributed network model using p5.js and developed a
 program to run a simulation of 2 simple routing algorithms on it – developed as part of
 coursework for the subject of Computer Networks
 
 
-● Phishing URL detector Preview 
+**● Phishing URL detector Preview**
 
  Developed a tool to identify and flag potentially malicious URLs built using 87 lexical, content-
  based, and external features. Includes full feature extraction, model training, evaluation, and a
  Flask API for real-time URL classification.
 
  
-● The Vibe compass Preview
+**● The Vibe compass Preview**
 
 Designed an interactive travel website for the Figma Makeathon using Figma Make [vibe coded
 in Typescript] focusing on smooth user experience and aesthetics, including a feature to suggest
