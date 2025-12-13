@@ -3,19 +3,19 @@
 mail@withshreya.tech | [LinkedIn](https://www.linkedin.com/in/shreya-r-0399ab2a1/) | [Portfolio](www.withshreya.tech)
 
 
-$${\color{red}Red}$$
-**About Me** 
 
-_A passionate and versatile Computer Science student with a strong foundation in both technical and creative fields. My twin passions for art and technology drive my work in software development, User interface and experience design and other fields that lie at the intersection of these fields. I am fascinated by the rapid developments in science and tech and like to keep up with them - from new consumer tech devices and software to latest breakthroughs like AI. I am skilled in various programming and scripting languages and I am continuously learning and coding in different domains, eager to contribute my creativity and problem-solving skills to the tech world._
+##**About Me** 
 
-**Education**
+_A passionate and versatile Computer Science student with a strong foundation in both technical and creative fields. My twin passions for art and technology drive my work in software development, user interface and experience design and other fields that lie at the intersection of these fields. I am fascinated by the rapid developments in science and tech and like to keep up with them - from new consumer tech devices and software to latest breakthroughs like AI. I am skilled in various programming and scripting languages and I am continuously learning and coding in different domains, eager to contribute my creativity and problem-solving skills to the tech world._
+
+##**Education**
 
 Dayananda Sagar College of Engineering 
    Computer Science and Business Systems, in progress - expected 2027
 
 
 
-**Skills** 
+##**Skills** 
 
 
 _Technical_
@@ -40,7 +40,7 @@ Graphic Design
 
 Tools: Figma, Affinity, Krita
 
-**Projects**
+##**Projects**
 
 
 ● PSA Bangalore - Transit alert app 
@@ -74,7 +74,7 @@ Web Design challenge and won honourable mention .
 
 
 
-**Familiarity**
+##**Familiarity**
 
 
 ● Unity and C# : Beginner
