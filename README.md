@@ -18,27 +18,28 @@ Dayananda Sagar College of Engineering
 ## **Skills** 
 
 
-_Technical_
+###  _Technical_ 
 
 
-Languages: C/C++, JavaScript, Typescript, Python, Lua, Java
+`Languages`: C/C++, JavaScript, Typescript, Python, Lua, Java
 
-Frameworks: React.js, Node.js, p5.js, Electron.js
+`Frameworks`: React.js, Node.js, p5.js, Electron.js
 
-Database: MySQL
+`Database`: MySQL
 
-Tools: Git/GitHub
-
-
-
-_Creative_
+`Tools`: Git/GitHub
 
 
-General: User Interface design, User Experience research and design, Design thinking, Illustration
+
+###  _Creative_ 
+
+
+`General`: User Interface design, User Experience research and design, Design thinking, Illustration
 
 Graphic Design
 
-Tools: Figma, Affinity, Krita
+`Tools`: Figma, Affinity, Krita
+
 
 ## **Projects**
 
