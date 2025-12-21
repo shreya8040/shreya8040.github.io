@@ -35,8 +35,7 @@ Dayananda Sagar College of Engineering
 
 
 `General`: User Interface design, User Experience research and design, Design thinking, Illustration
-
-Graphic Design
+           Graphic Design
 
 `Tools`: Figma, Affinity, Krita
 
